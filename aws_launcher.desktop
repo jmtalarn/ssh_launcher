@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=AWS Launcher
+Type=Application
+Exec=python /home/jmtalarn/workspace/aws_launcher/aws_launcher.py
+Icon=/home/jmtalarn/workspace/aws_launcher/icon.png
+Name=AWS Console Launcher
+Terminal=false
+StartupNotify=true
